@@ -6,7 +6,7 @@
 </div>
 
 <p>- 🌱 I’m currently learning Java Web <img src="https://i.pinimg.com/originals/30/8c/c8/308cc8dad6468cf005f82755d55bcbfe.gif" width="50" height="50"></img></p>
-<p>- 🔭 I’m currently working on CNTT3-K15 and HIT-HAUI <img 
+<p>- 🔭 I’m currently working on CNTT3-K15 and HIT-HAUI
 
 ### Connect with me:
 
@@ -23,5 +23,6 @@
 [linkedin]: https://www.linkedin.com
 [facebook]: https://www.facebook.com/profile.php?id=100019888967922
 
+  <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandungday&show_icons=true&theme=radical)
 
