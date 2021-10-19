@@ -23,6 +23,7 @@
 [linkedin]: https://www.linkedin.com
 [facebook]: https://www.facebook.com/profile.php?id=100019888967922
 
-  <br/>
+ <br>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandungday&show_icons=true&theme=radical)
 
