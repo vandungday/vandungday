@@ -1,7 +1,7 @@
 
 
 <div style="text-align: center">
-  <h2> <img src="https://upanh123.com/wp-content/uploads/2021/05/hinh-anh-dong-hoat-hinh.gif" width="50" height="50"</img> My name is <b>Nguyễn Văn Dũng</b>  <img src="https://upanh123.com/wp-content/uploads/2021/05/hinh-anh-dong-hoat-hinh.gif" width="50" height="50"</img>
+  <h2> <img src="https://upanh123.com/wp-content/uploads/2021/05/hinh-anh-dong-hoat-hinh.gif" width="50" height="50"</img> My name is <b>Nguyen Van Dung</b>  <img src="https://upanh123.com/wp-content/uploads/2021/05/hinh-anh-dong-hoat-hinh.gif" width="50" height="50"</img>
   </h2>
 </div>
 
