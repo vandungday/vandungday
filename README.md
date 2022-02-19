@@ -5,7 +5,7 @@
   </h2>
 </div>
 
-<p>- 🌱 I’m currently learning Java Web <img src="https://i.pinimg.com/originals/30/8c/c8/308cc8dad6468cf005f82755d55bcbfe.gif" width="50" height="50"></img></p>
+<p>- 🌱 I’m currently learning NodeJs <img src="https://i.pinimg.com/originals/30/8c/c8/308cc8dad6468cf005f82755d55bcbfe.gif" width="50" height="50"></img></p>
 <p>- 🔭 I’m currently working on CNTT3-K15 and HIT-HAUI
 
 ### Connect with me:
