@@ -1,4 +1,9 @@
 
+<a href="#" target="_blank">
+  <img src="svg/vandungday.svg" width="1200" alt="Click to see the source" />
+</a>
+
+<!-- 
 
 <div style="text-align: center">
   <h2> <img src="https://upanh123.com/wp-content/uploads/2021/05/hinh-anh-dong-hoat-hinh.gif" width="50" height="50"</img> My name is <b>Nguyen Van Dung</b>  <img src="https://upanh123.com/wp-content/uploads/2021/05/hinh-anh-dong-hoat-hinh.gif" width="50" height="50"</img>
@@ -26,4 +31,4 @@
  <br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandungday&show_icons=true&theme=radical)
-
+ -->
